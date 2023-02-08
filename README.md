@@ -1,6 +1,6 @@
 # Moon-Presets
 
-This is a collection of my GShade presets that are compatible with ReShade as well. If you have any problems with them, make sure you have all the GShade fx files installed and that ReShade can access them.
+This is a collection of my GShade presets that are compatible with ReShade as well. If you have any problems with them, make sure you have all the GShade fx files installed and that ReShade can access them. Please get the prod80 shaders from [the GitHub repo here](https://github.com/prod80/prod80-ReShade-Repository/tree/master/Shaders) before using my presets!
 
 ## Gallery
 ### Vanilla:
